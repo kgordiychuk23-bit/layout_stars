@@ -1,5 +1,6 @@
 .stars {
   display: flex;
+  justify-content: flex-start;
 }
 
 .stars__star {
